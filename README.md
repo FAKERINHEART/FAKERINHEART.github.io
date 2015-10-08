@@ -1,2 +1,2 @@
 # FAKERINHEART.github.io
-blgo
+blog
